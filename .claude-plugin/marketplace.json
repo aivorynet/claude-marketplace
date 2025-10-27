@@ -13,8 +13,8 @@
     {
       "name": "aivory",
       "source": {
-        "source": "github",
-        "repo": "aivorynet/aivory-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/aivorynet/aivory-claude-plugin.git"
       },
       "description": "Comprehensive compliance validation across 17+ standards (OWASP, GDPR, HIPAA, PCI-DSS, SOC2, ISO27001+). Features AI-generated code detection, branch-aware violation tracking, interactive remediation, and dashboard metrics integration.",
       "version": "1.0.0",
