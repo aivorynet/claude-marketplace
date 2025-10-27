@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "aivory",
+      "name": "aiv",
       "source": {
         "source": "url",
         "url": "https://github.com/aivorynet/aivory-claude-plugin.git"
