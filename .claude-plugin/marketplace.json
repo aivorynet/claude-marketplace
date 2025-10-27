@@ -1,0 +1,46 @@
+{
+  "name": "aivory",
+  "metadata": {
+    "description": "Official AIVory extensions for Claude Code - compliance, security, and development tools",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "AIVory, Inc.",
+    "email": "support@aivory.net",
+    "url": "https://aivory.net"
+  },
+  "plugins": [
+    {
+      "name": "aivory",
+      "source": {
+        "source": "github",
+        "repo": "aivorynet/aivory-claude-plugin"
+      },
+      "description": "Comprehensive compliance validation across 17+ standards (OWASP, GDPR, HIPAA, PCI-DSS, SOC2, ISO27001+). Features AI-generated code detection, branch-aware violation tracking, interactive remediation, and dashboard metrics integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AIVory, Inc.",
+        "email": "support@aivory.net",
+        "url": "https://aivory.net"
+      },
+      "homepage": "https://github.com/aivorynet/aivory-claude-plugin",
+      "repository": "https://github.com/aivorynet/aivory-claude-plugin",
+      "license": "MIT",
+      "keywords": [
+        "compliance",
+        "security",
+        "owasp",
+        "gdpr",
+        "hipaa",
+        "pci-dss",
+        "soc2",
+        "iso27001",
+        "code-scanning",
+        "ai-detection",
+        "code-review",
+        "remediation"
+      ],
+      "category": "security"
+    }
+  ]
+}
